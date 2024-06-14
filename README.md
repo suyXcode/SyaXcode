@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SyaXcode.
+- 👋 Hi, I’m @suyXcode.
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning Js and Python.
 - 💞️ I’m looking to collaborate on big one.
