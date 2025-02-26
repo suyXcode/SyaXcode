@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @suyXcode.
+- 👋 Hi, I’m Suyash Singh a.k.a Code Pirates.
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning Js and Python.
 - 💞️ I’m looking to collaborate on big one.
