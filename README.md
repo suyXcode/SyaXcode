@@ -44,4 +44,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suyxcode&show_icons=true&locale=en" alt="suyxcode" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suyxcode&" alt="suyxcode" /></p>
+<small>Suyash Singh</small>
 
